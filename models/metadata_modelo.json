@@ -1,0 +1,19 @@
+{
+    "features": [
+        "fase_num",
+        "idade",
+        "ian",
+        "ida",
+        "ieg",
+        "iaa",
+        "ips",
+        "ipv",
+        "inde",
+        "defasagem"
+    ],
+    "target": "risco_prox_ano",
+    "periodo_treino": "2022 -> 2023",
+    "periodo_teste": "2023 -> 2024",
+    "threshold": 0.35,
+    "descricao": "Probabilidade de defasagem no ano seguinte."
+}

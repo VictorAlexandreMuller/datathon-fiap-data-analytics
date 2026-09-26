@@ -1,0 +1,15 @@
+# python -m venv venv
+# venv\Scripts\activate
+# pip install -r requirements.txt
+# pip install ipykernel
+# python -m ipykernel install --user --name datathon-venv --display-name "Python (Datathon venv)"
+
+pandas
+numpy
+openpyxl
+matplotlib
+scipy
+scikit-learn
+joblib
+streamlit
+plotly

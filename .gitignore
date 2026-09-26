@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados brutos e processados dos alunos
+data/raw/
+data/processed/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
