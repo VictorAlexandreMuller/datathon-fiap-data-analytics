@@ -143,4 +143,4 @@ de causalidade.
 
 Aplicação Streamlit - [Clique aqui](https://datathon-fiap-data-analytics-id6r8skv4pmvkhbrzdpxgr.streamlit.app/)
 
-<!-- Aplicação YouTube - [Clique aqui](https://youtube.com.br/) -->
+Aplicação YouTube - [Clique aqui](https://youtu.be/uZrXtE5SOeI)
