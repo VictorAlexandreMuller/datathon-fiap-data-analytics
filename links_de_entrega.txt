@@ -1,0 +1,35 @@
+DATATHON — FASE FINAL
+PÓS-TECH — DATA ANALYTICS
+
+INTEGRANTES:
+
+• Nome completo: VICTOR ALEXANDRE GUIMARÃES MÜLLER DE ALMEIDA FERNANDES
+• RM: 367463
+
+• Nome completo: NICOLAS CASTRO LIMA
+• RM: 369300
+
+============================================================
+1. STREAMLIT (com Storytelling)
+============================================================
+
+Link:
+https://datathon-fiap-data-analytics-id6r8skv4pmvkhbrzdpxgr.streamlit.app/
+
+============================================================
+2. REPOSITÓRIO DO PROJETO — GITHUB
+============================================================
+
+Link:
+https://github.com/VictorAlexandreMuller/datathon-fiap-data-analytics
+
+============================================================
+3. VÍDEO DE APRESENTAÇÃO
+============================================================
+
+Link:
+https://www.youtube.com/watch?v=uZrXtE5SOeI
+
+============================================================
+
+OBS: O Storytelling está dentro do Streamlit.
